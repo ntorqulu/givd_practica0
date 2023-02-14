@@ -7,6 +7,7 @@ SOURCES += main.cpp \
     rectangle.cpp \
     objecte.cpp
 
+
 HEADERS += \
     rectangle.h \
     objecte.h
